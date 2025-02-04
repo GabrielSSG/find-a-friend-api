@@ -1,6 +1,6 @@
 # Find a Friend API
 
-This is the API for the Find a Friend application.
+A FindAFriend API, built with Node.js and based on SOLID principles, is the solution to a coding challenge aimed at streamlining the process of pet adoption. The API enables the registration and management of pets, as well as the organizations (ORGs) responsible for their care. By providing a structured and efficient platform, it connects potential adopters with pets in need of a home, while empowering ORGs to manage their operations effectively.
 
 ## About
 
